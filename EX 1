@@ -1,0 +1,63 @@
+Student Performance Prediction using Machine Learning
+Overview
+This project demonstrates the data preprocessing steps used in a machine learning workflow on a student performance dataset. The notebook prepares the data for model training by cleaning and organizing it.
+
+Features
+Load the student performance dataset using Pandas.
+Display the first few rows of the dataset.
+View dataset information.
+Check the number of rows and columns.
+Display column names.
+Identify missing values.
+Handle missing values.
+Remove duplicate records.
+Generate statistical summary of the dataset.
+Encode categorical data using LabelEncoder.
+Split the dataset into training and testing sets using train_test_split().
+Technologies Used
+Python
+Pandas
+Scikit-learn
+Jupyter Notebook
+Project Workflow
+Load the dataset.
+Explore the dataset (head(), info(), shape, columns).
+Handle missing values.
+Remove duplicate records.
+Encode categorical variables.
+Split features and target.
+Perform train-test split.
+Files
+Ex_1.ipynb – Jupyter Notebook containing the preprocessing steps.
+student_performance_updated_1000.csv – Dataset used for the project.
+Author
+Sharnitha
+
+About
+
+A machine learning project that predicts student academic performance using data preprocessing, exploratory data analysis (EDA), feature engineering, and classification/regression models. Built with Python, Pandas, NumPy, Scikit-learn, and Matplotlib.
+
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Contributors
+1
+ (1)
+@sharnitha567
+sharnitha567
+Languages
+Jupyter Notebook
+100%
+Footer
